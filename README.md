@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on doing a sinc of my Ai/Ml skills with web development<br>👯 I’m looking to collaborate on Exciting and impactful AI project <br>🌱 I’m currently looking to upskill  to be full stack AI/ml engineer<br>💬 Ask me about anything and i will try to share any knowledge i possess about it or will be very open to learn from you<br>⚡ Fun fact is i always find a way to make any situation either fun or instructive. 
+🔭 I’m currently working on being a full stack  of my Ai/Ml Engineer <br>👯 I’m looking to collaborate on Exciting and impactful AI project <br>🌱 I’m currently looking to upskill  to be full stack AI/ml engineer<br>💬 Ask me about anything and i will try to share any knowledge i possess about it or will be very open to learn from you<br>⚡ Fun fact is i always find a way to make any situation either fun or instructive. 
 
 
 ## 🌐 Socials:
