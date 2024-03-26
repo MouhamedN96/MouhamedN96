@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on being a full stack  of my Ai/Ml Engineer <br>👯 I’m looking to collaborate on Exciting and impactful AI project <br>🌱 I’m currently looking to upskill  to be full stack AI/ml engineer<br>💬 Ask me about anything and i will try to share any knowledge i possess about it or will be very open to learn from you<br>⚡ Fun fact is i always find a way to make any situation either fun or instructive. 
-
-
+🔭 I’m a full stack Ai Engineer(ML, DS, DA) <br>👯 I’m looking to collaborate on Exciting and impactful AI project <br>🌱 2024: Focus is to get high expertise on LLM'S & NO CODE AI'S<br>💬 Ask me about anything and i will try to share any knowledge i possess about it or will be very open to learn from you<br>⚡ Fun fact wondering if someone has tips to remember dreams cuz mine's gone the moment my eyes open 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moxamed_2nd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/moh749) 
 
