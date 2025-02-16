@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Ai Engineer <br>👯 I’m looking to collaborate on Exciting and impactful AI project <br><br>💬 Ask me about anything, that way if i dont know, i will have a study buddy on that subject <br>⚡ Fun fact wondering if someone has tips to remember dreams cuz mine's gone the moment my eyes open 
+🔭 I’m a Ai Engineer <br>👯 I’m looking to collaborate on Exciting and impactful AI project <br><br>💬 Ask me about anything, that way if i dont know, you got a study buddy on that subject <br>⚡ Fun fact wondering if someone has tips to remember dreams cuz mine's gone the moment my eyes open 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moxamed_2nd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/moh749) 
 
